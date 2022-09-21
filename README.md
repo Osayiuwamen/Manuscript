@@ -1,0 +1,1 @@
+This is an article by Michael Bierutthat that was published 01.14.13, titled Graphic Design Criticism as a Spectator Sport. 
