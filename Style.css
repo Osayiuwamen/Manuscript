@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Fredoka', sans-serif;
+    /* background-color: blue; */
+}
+div{
+    max-width: 1000px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+em{
+    font-size: 20px;
+    line-height: 130.5%;
+    letter-spacing: 6%;
+}
+h1{
+    font-size: 40px;
+    /* line-height: 130.5%; */
+    letter-spacing: 6%;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+span{
+    font-size: 22px;
+    letter-spacing: 18%;
+    font-weight: 600;
+    color: red;  
+}
+
+.secondary-text{
+    font-size: 25px;
+    line-height: 102%;
+    letter-spacing: 6%;
+    margin-bottom: 16px;
+    font-weight: 500;
+}
+
+p   {  
+    font-size: 24px;
+    line-height: 140%;
+    letter-spacing: 6%;
+    margin-bottom: 30px;
+    font-weight: 300;
+}
+
+.Red-middletext{
+    color: red;
+    font-style: italic;
+    font-weight: 400;
+}
+.centered-text{
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    font-style: italic;
+}
